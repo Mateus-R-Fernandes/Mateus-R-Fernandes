@@ -30,7 +30,7 @@ Desenvolvedor em formação com experiência prática em ambiente corporativo. E
 |---|---|---|
 | [CAPE-BD](https://github.com/Mateus-R-Fernandes/CAPE-BD) | Banco de dados relacional completo para ONG que acolhe crianças em tratamento médico — modelagem conceitual, lógica e física com 13 entidades | MySQL · SQL |
 | [PUCFlix](https://github.com/Mateus-R-Fernandes/AEDS3_TP3) | Sistema CRUD com estruturas de dados avançadas implementadas do zero: Árvore B+, Hash Extensível e Lista Invertida persistidas em arquivo binário | Java |
-| [Sorting Algorithms](https://github.com/Mateus-R-Fernandes/AEDS2_TP2) | Benchmark comparativo de 6 algoritmos de ordenação (Quicksort, Mergesort, Shellsort, Radix, Counting, Insertion) aplicados a dataset real de 800 Pokémon, com contagem de comparações e tempo de execução | Java · C |
+| [Sorting Algorithms](https://github.com/Mateus-R-Fernandes/Sorting-Algorithms) | Benchmark comparativo de 6 algoritmos de ordenação (Quicksort, Mergesort, Shellsort, Radix, Counting, Insertion) aplicados a dataset real de 800 Pokémon, com contagem de comparações e tempo de execução | Java · C |
 
 <br>
 
